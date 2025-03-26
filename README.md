@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Web Projects**
 
 - 💬 Ask me about **MERN STACK**
 
